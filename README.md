@@ -1,4 +1,5 @@
 # Music Recommendation System using Spotify Data
+Đây là project cuối kì môn Hệ thống tư vấn. 
 ## Tác giả 
 | STT | Họ và tên | MSSV |
 |----------|----------|----------|
