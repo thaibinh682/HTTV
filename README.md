@@ -8,4 +8,5 @@
 | 4 | Võ Thái Bình | 20280007 |
 ## Báo cáo 
 Link latex: https://www.overleaf.com/read/nwbzmbmdfxyv#ab2b57
+
 Model: đang cập nhật .... 
