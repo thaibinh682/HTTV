@@ -1,5 +1,7 @@
 # Music Recommendation System using Spotify Data
-Đây là project cuối kì môn Hệ thống tư vấn. 
+- Đồ án cuối kì môn nhập môn Hệ thống tư vấn.  ( Đại học Khoa học tự nhiên - DDHQG HCM)
+- Chủ đề :  Music Recommendation System using Spotify Data
+- Báo cáo chi tiết được viết trong file pdf, các thành viên sẽ thay nhau thuyết trình.
 
 Lời nói đầu:
 
@@ -22,9 +24,27 @@ tuyến và trở thành nguồn doanh thu quan trọng.
 | 2 | Dương Vi Doanh | 20280018 |
 | 3 | Phù Chí Đạt | Row 3, Col 3 |
 | 4 | Võ Thái Bình | 20280007 |
-## Báo cáo 
-Link latex: https://www.overleaf.com/read/nwbzmbmdfxyv#ab2b57
+## Lời kết: 
+Hệ thống đề xuất là một công nghệ mới mạnh mẽ để trích xuất giá trị bổ sung cho doanh nghiệp
+từ cơ sở dữ liệu người dùng của nó. Hệ thống mang lại lợi ích cho người dùng bằng cách cho phép
+họ tìm thấy các nhiều bài nhạc mà họ thích một cách dễ dàng hơn. Ngược lại, họ giúp doanh nghiệp
+bằng cách tạo ra nhiều doanh thu hơn.
 
-Báo cáo: đang cập nhật .... 
+Về phần báo cáo mà nhóm em đã thực hiện. Từ một bộ dữ liệu được lấy từ Spotify, nhóm đã phân
+tích tổng quan dữ liệu, trực quan hóa dữ liệu, xử lý các dữ liệu bất hợp lý, từ đó đưa ra đề xuất các
+bài hát mới dựa trên một danh sách hiện tại của các bài hát, hữu ích trong việc tạo các danh sách
+phát tự động hoặc gợi ý bài hát tương tự cho người dùng.
+
+Cuối cùng, âm nhạc không chỉ giúp cho chúng ta thư giản, mà còn mang lại nhiều lợi ích hơn thế
+.Nghe nhạc giúp ta cải thiện sự tập trung và tăng cường khả năng tư duy, phân tích ; vốn từ của
+chúng ta cũng sẽ được mở rộng thông qua việc nghe nhạc .Âm nhạc còn là một hình thức giải trí ,
+giảm căng thẳng . . . Mọi người nên khắc sâu thói quen nghe nhạc mỗi ngày vì những lợi ích đáng quý
+của nó.
+
+Hy vọng bằng cách sử dụng hệ thống đề xuất nhạc, chúng ta có thể tìm kiếm những sản phẩm
+âm nhạc phù hợp với sở thích , nhu cầu dễ dàng hơn, từ đó mà chúng ta có thể nuôi dưỡng thói quen
+nghe nhạc mỗi ngày.
+
+
 
  
